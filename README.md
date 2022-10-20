@@ -1,5 +1,12 @@
 # Exercício Proposto pela Ada
 
+## Tópicos de estudo:
+- Interface List e implementação com ArrayList
+- Classe estática utilitária para cálculo do salário líquido anual que não precisa de implementação 
+- Classe Model funcionário com construtor e métodos get
+
+## Enunciado:
+
 Um funcionário deseja saber qual o valor líquido anual que recebe da sua empresa. Para tal cálculo é necessário considerar que o funcionário recebe o salário + décimo terceiro + férias e não esqueça de considerar o desconto do inss, não vamos trabalhar com imposto de renda nesse momento.
 O inss tem desconto com base no valor mensal que o funcionário recebe e para isso vamos utilizar a regra a seguir:
 
